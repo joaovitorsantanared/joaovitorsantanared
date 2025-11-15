@@ -13,6 +13,10 @@
     <i>"Chaos isn’t destruction… it’s the beginning of creation."</i> 
     <br/> <sub>— Shadow the Hedgehog </sub>
   </p>
+  
+  <p align="center">
+  <img src="https://media.giphy.com/media/dKv268LqlrRBW5W9N5/giphy.gif" width="120" />
+</p>
 
 | 🌍 Location | 💻 Focus Area | 🧠 Learning |
 |--------------|---------------|-------------|
