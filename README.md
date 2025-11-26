@@ -77,22 +77,31 @@ Always seeking to create efficient, scalable, and elegant solutions through code
 <p align="center">
 
   <a href="https://github.com/joaovitorsantanared/Sistema-de-Gerenciamento-de-Loja-de-Roupas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Sistema-de-Gerenciamento-de-Loja-de-Roupas&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15" alt="Sistema de Loja de Roupas"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Sistema-de-Gerenciamento-de-Loja-de-Roupas&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15"/>
   </a>
 
-  <a href="https://github.com/joaovitorsantanared/projetojs.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=projetojs&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15" alt="Calculadora em C"/>
+  <a href="https://github.com/joaovitorsantanared/projetojs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=projetojs&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15"/>
   </a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/joaovitorsantanared/Jogo-Do-Numero-Secreto.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Jogo-Do-Numero-Secreto&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15" alt="Jogo do Número Secreto"/>
+
+  <a href="https://github.com/joaovitorsantanared/Jogo-Do-Numero-Secreto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Jogo-Do-Numero-Secreto&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15"/>
   </a>
 
-  <a href="https://github.com/joaovitorsantanared/Sites-de-Jogos-FICR.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Sites-de-Jogos-FICR&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15" alt="Portfólio Web"/>
+<a href="https://github.com/joaovitorsantanared/Sites-de-Jogos-FICR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Sites-de-Jogos-FICR&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15&cache_seconds=1"/>
+</a>
+
+  <a href="https://github.com/joaovitorsantanared/Sites-de-Jogos-FICR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Sites-de-Jogos-FICR&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15"/>
   </a>
+  
+
+
 </p>
 
 <br/>
