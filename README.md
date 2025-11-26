@@ -95,10 +95,6 @@ Always seeking to create efficient, scalable, and elegant solutions through code
 <a href="https://github.com/joaovitorsantanared/Sites-de-Jogos-FICR">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Sites-de-Jogos-FICR&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15&cache_seconds=1"/>
 </a>
-
-  <a href="https://github.com/joaovitorsantanared/Sites-de-Jogos-FICR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorsantanared&repo=Sites-de-Jogos-FICR&theme=dracula&bg_color=0d1117&title_color=c5003c&icon_color=c5003c&text_color=ffffff&border_color=c5003c&border_radius=15"/>
-  </a>
   
 
 
